@@ -1,0 +1,39 @@
+body{
+    align-items: center;
+    text-align: center;
+    background-color: lightgray;
+    
+}
+
+.attribution { font-size: 11px;  }
+    .attribution a { color: hsl(228, 45%, 44%); }
+   
+   
+    .scan{
+        width: 280px;
+        height: 461px;
+        background-color: white;
+        margin: 50px auto 61px auto;
+        position: relative;
+        border-radius: 5%;
+
+    }
+
+    img{
+        border-radius: 5%;
+        height: 55%;
+        margin-top: 13px;
+    }
+    p{
+        font-size: 15px;
+        font-family: 'Outfit', sans-serif;
+    }
+    .k{
+        line-height: 0;
+        font-size: 20px;
+    }
+
+    .a{
+        margin-top: 42px;
+        font-size: 15px;
+    }
